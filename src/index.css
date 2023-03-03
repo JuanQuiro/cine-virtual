@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter:wght@100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fontInter {
+  font-family: "Inter";
+}
+
+.fontSans {
+  font-family: "DM Sans";
+}
